@@ -7,7 +7,7 @@ setup(
    license='MIT',
    author='Efim Pechersky',
    author_email='pecherskii0404@gmail.com',
-   url='https://github.com/EfimPechersky/firsttestlib',
+   url='https://github.com/EfimPechersky/getcoord',
    packages=['getcoord'], 
    install_requires=[], # it is empty since we use standard python library
    extras_require={
